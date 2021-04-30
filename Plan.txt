@@ -1,0 +1,17 @@
+storyline : Gimana kalo dia si mc tu dri tahun 2020 ya yg penting dari tahun depan, 
+	          nah trus dlu itu ada kerajaan yg kaya raya namun karna ketamakan rajanya jadi kerajaan itu dikutuk, 
+	          nah sejak saat itu gaada yg berani masuk kastil itu, nah dengan ada nya kutukan itu, muncul lah monster² yg bakal jadi lawannya
+		        latar tempat gurun.
+bos fight : - dikalahkan dengan 2 kali hit menggunakan peluru yang tersebar dan harus ditemukan oleh pemain.
+	          - pada level awal bos fight bisa dikalahkan hanya dengan2 peluru, semakin tinggi level maka butuh semakin banyak peluru
+reward : - reward setandar berupa berlian merah, namun jika berhasil menyelesaikan special stage, maka akan mendapakan berlian biru
+	       - pada khir stage akan mendapatkan bonus reward emas batangan
+	       - reward bisa ditukarkan dengan kostum untuk merubah penampilan
+npc :    - adalah seorang sandra yang ditawan oleh bos fight
+         - jika kita berhasilkan mengalahkan bos fight, npc akan berperan sebagai game guideline
+art style : vector art
+
+
+iguh : analisis, gambaran umum, genre, overview & player experience
+ridho : platform, cerita, control, guideline & reward
+ukhid : art style, sound, UI, mechanics & game level
