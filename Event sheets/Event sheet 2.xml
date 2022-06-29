@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<c2eventsheet>
+    <!--All the 'name' attributes are ignored by Construct 2 - they are there for readability only.-->
+    <name>Event sheet 2</name>
+    <events>
+        <event-block sid="317940478642637">
+            <conditions>
+                <condition id="17" name="On tap object" sid="957195278521277" type="Touch">
+                    <param id="0" name="Object">close</param>
+                </condition>
+            </conditions>
+            <actions>
+                <action id="-43" name="Go to next/previous layout" sid="642184396089546" type="System">
+                    <param id="0" name="Which">1</param>
+                </action>
+            </actions>
+        </event-block>
+        <event-block sid="900253115883200">
+            <conditions>
+                <condition id="17" name="On tap object" sid="682446336353305" type="Touch">
+                    <param id="0" name="Object">play</param>
+                </condition>
+            </conditions>
+            <actions>
+                <action id="-2" name="Go to layout" sid="207762427594073" type="System">
+                    <param id="0" name="Layout">Layout 1</param>
+                </action>
+            </actions>
+        </event-block>
+        <event-block sid="428855515301676">
+            <conditions>
+                <condition id="17" name="On tap object" sid="590771285303682" type="Touch">
+                    <param id="0" name="Object">faq</param>
+                </condition>
+            </conditions>
+            <actions>
+                <action id="-2" name="Go to layout" sid="509975301180211" type="System">
+                    <param id="0" name="Layout">Layout 4</param>
+                </action>
+            </actions>
+        </event-block>
+    </events>
+</c2eventsheet>
